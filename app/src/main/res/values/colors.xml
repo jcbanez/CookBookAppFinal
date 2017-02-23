@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4500</color><!--Background color for AppBar-->
+    <color name="colorPrimaryDark">#303F9F</color><!--Background color for the bar with the time, battery info-->
+    <color name="colorAccent">#303F9F</color><!--color effects, EditText, RadioButtons...-->
+</resources>
