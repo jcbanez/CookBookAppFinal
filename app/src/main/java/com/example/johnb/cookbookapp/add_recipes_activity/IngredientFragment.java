@@ -114,6 +114,7 @@ public class IngredientFragment extends Fragment implements View.OnClickListener
 //                break;
         }
     }
+    //
 
     /*when add button clicked add ingredients to
     * appropriate lists and show on listView*/
